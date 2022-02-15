@@ -1,61 +1,160 @@
-{
-    "files": [
 
 {
-         "name": "DTAC NOPRO-01-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-ALL.01.ovpn"
+   "files": [    
+
+{
+         "name": "DTAC-TRUE-1-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-01.ovpn"
       },
 
 {
-         "name": "DTAC NOPRO-02-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-ALL.02.ovpn"
+         "name": "DTAC-TRUE-2-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-02.ovpn"
       },
 
 {
-         "name": "DTAC NOPRO-03-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-ALL.03.ovpn"
-      },
-
-
-{
-         "name": "DTAC NO PRO-04-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-ALL.04.ovpn"
+         "name": "DTAC-TRUE-3-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-03.ovpn"
       },
 
 {
-         "name": "DTAC NO PRO-05-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-ALL.05.ovpn"
-      },
-
-
-{
-         "name": "TRUE NO PRO-01-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/TRUE-NOPRO.01.ovpn"
+         "name": "DTAC-TRUE-4-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-04.ovpn"
       },
 
 {
-         "name": "TRUE NO PRO-02-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/TRUE-NOPRO.02.ovpn"
+         "name": "DTAC-TRUE-5-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-05.ovpn"
       },
 
 {
-         "name": "TRUE NO PRO-03-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/TRUE-NOPRO.03.ovpn"
+         "name": "DTAC-TRUE-6-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-06.ovpn"
       },
 
 {
-         "name": "TRUE NO PRO-04-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/TRUE-NOPRO.04.ovpn"
+         "name": "DTAC-TRUE-7-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-07.ovpn"
       },
 
 {
-         "name": "TRUE NO PRO-05-FREE",
-         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/TRUE-NOPRO.05.ovpn"
+         "name": "DTAC-TRUE-8-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-08.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-9-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-09.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-10-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-10.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-11-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-11.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-12-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-12.ovpn"
+},
+
+{
+         "name": "DTAC-TRUE-13-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-13.ovpn"
+},
+
+{
+         "name": "DTAC-TRUE-14-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-14.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-15-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-15.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-16-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-16.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-17-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-17.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-18-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-18.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-19-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-19.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-20-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-20.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-21-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-21.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-22-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-22.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-23-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-23.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-24-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-24.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-25-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-25.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-26-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-26.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-27-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-27.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-28-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-28.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-29-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-29.ovpn"
+      },
+
+{
+         "name": "DTAC-TRUE-30-VIP",
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovpn.json/main/DTAC-TRUE-VPS-30.ovpn"
       }
 
-
    ],
-"message":"DTAC Allpro🔥TRUE Nopro🔥\n\n•ကိုယ်စိတ်နှစ်ြဖာကျန်းမာချမ်းသာပါ‌ေစ\n•Update 15 /02/2022\n\n•Config by ကိုကို",
-   "title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်ရန် အင်တာနက်လိုပါသည်" ,
-   "version": 5
+"message":"DTAC Nopro🔥TRUE Nopro🔥2မျိုးချိတ် ဖိုင်30ထည့်ထာပါတယ်ဗျာ့🔥\n\n•ကိုယ်စိတ်နှစ်ြဖာကျန်းမာရွှင်လန်းချမ်း‌ေြမ့ပါ‌ေစဗျာ့\n•Update 15-02-2022🔥Server owner NNO🔥\n\n•Config by Ko Ko",
+"title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်ရန် အင်တာနက်လိုပါသည်" ,
+   "version":6
 }
+
