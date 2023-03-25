@@ -1,15 +1,28 @@
-{"Version":"1.5","Url":"https://github.com/mr1410koko/kokovpn.json/raw/main/test.zip","Text":"📢ဖိုင်အပ်ဒိတ်တင်ရက် 19/03/2023
+
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/mr1410koko/kokovpn.json/raw/main/test.zip" ,
+"Changelog":"
+Latest update 01/11/2022
+TRUE No Pro
+DTAC No Pro
+Edit the TRUE file.
+Edit DTAC files
+Add function to page load
+",
  
-🌟VIPတစ်လမှ 50ဘတ်ပါ
-Game Facebook Youtube Tiktok
-အကုန်ရပါတယ် လားစမ်းပြီးအဆင်ပြေမှဝယ်ပါ
-
-🌐VIPမဝယ်ချင်လဲဖရီးနဲ့သုံးလို့ရပါတယ်
-ဖရီးကအချိန်တိုးပြီးသုံးရမှာဖြစ်ပါတယ်
-အချိန်တိုးတာADD TIME ခလုတ်နှိပ်ပါ
-ကြော်ညာပြီးအောင်ကြည့်ပါ အချိန်24နာရီရမည်
-
-📌ဖရီးပဲဖြစ်ဖြစ် VIPပဲဖြစ်ဖြစ် 
-တစ်ခုခုအဆင်မပြေတာရှိရင်
-Adminကိုအကြောင်းကြားလို့ရပါတယ်
-KOKO VPN NET လာရောက်အားပေးတာကျေးဇူးပါ"}
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
